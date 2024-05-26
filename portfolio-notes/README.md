@@ -5,3 +5,4 @@ These notes were assembled in 2026 as transparent extensions to finalized course
 ## Index
 - [Validation Plan: interpretation boundary](2024/05/01-validation-plan-interpretation-boundary.md)
 - [Deliverables: handover note](2024/05/08-deliverables-handover-note.md)
+- [Project Governance: parameter note](2024/05/15-project-governance-parameter-note.md)
